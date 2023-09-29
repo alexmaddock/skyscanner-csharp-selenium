@@ -27,6 +27,7 @@
 /Users/alexmaddock/Projects/github_projects/skyscanner-csharp-selenium/bin/Debug/net8.0/Newtonsoft.Json.dll
 /Users/alexmaddock/Projects/github_projects/skyscanner-csharp-selenium/bin/Debug/net8.0/NuGet.Frameworks.dll
 /Users/alexmaddock/Projects/github_projects/skyscanner-csharp-selenium/bin/Debug/net8.0/nunit.framework.dll
+/Users/alexmaddock/Projects/github_projects/skyscanner-csharp-selenium/bin/Debug/net8.0/UndetectedChromeDriver.dll
 /Users/alexmaddock/Projects/github_projects/skyscanner-csharp-selenium/bin/Debug/net8.0/WebDriver.dll
 /Users/alexmaddock/Projects/github_projects/skyscanner-csharp-selenium/bin/Debug/net8.0/System.Drawing.Common.dll
 /Users/alexmaddock/Projects/github_projects/skyscanner-csharp-selenium/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
@@ -101,6 +102,7 @@
 /Users/alexmaddock/Projects/github_projects/skyscanner-csharp-selenium/obj/Debug/net8.0/skyscanner-csharp-selenium.AssemblyInfoInputs.cache
 /Users/alexmaddock/Projects/github_projects/skyscanner-csharp-selenium/obj/Debug/net8.0/skyscanner-csharp-selenium.AssemblyInfo.cs
 /Users/alexmaddock/Projects/github_projects/skyscanner-csharp-selenium/obj/Debug/net8.0/skyscanner-csharp-selenium.csproj.CoreCompileInputs.cache
+/Users/alexmaddock/Projects/github_projects/skyscanner-csharp-selenium/obj/Debug/net8.0/skyscanner-csharp-selenium.sourcelink.json
 /Users/alexmaddock/Projects/github_projects/skyscanner-csharp-selenium/obj/Debug/net8.0/skyscanner-csharp-selenium.csproj.CopyComplete
 /Users/alexmaddock/Projects/github_projects/skyscanner-csharp-selenium/obj/Debug/net8.0/skyscanner-csharp-selenium.dll
 /Users/alexmaddock/Projects/github_projects/skyscanner-csharp-selenium/obj/Debug/net8.0/refint/skyscanner-csharp-selenium.dll

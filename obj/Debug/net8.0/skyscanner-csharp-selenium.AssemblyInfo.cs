@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("skyscanner-csharp-selenium")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+090fea048d4351f1884c5ec5b300382ba123d17b")]
 [assembly: System.Reflection.AssemblyProductAttribute("skyscanner-csharp-selenium")]
 [assembly: System.Reflection.AssemblyTitleAttribute("skyscanner-csharp-selenium")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
