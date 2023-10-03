@@ -1,17 +1,19 @@
 ## N.B.
 
-Skyscanner has bot detection in place. This project is WIP and needs to implement the following first to get consistent runs.
+Please refer to this [repo](https://github.com/alexmaddock/selenium-csharp-tests) for a running test sample.
+
+Skyscanner has bot detection in place that makes its performance intermittent. This project is WIP and needs to implement the following first to get consistent runs and avoid bot detection.
 
 [C# UndetectedChromeDriver](https://github.com/fysh711426/UndetectedChromeDriver)
 
 ## Installation Instructions
 
 `dotnet new nunit`
+
 `dotnet add package Selenium.WebDriver`
 
 ## Running Testcases
 dotnet test
-
 
 ## Helpful Links
 
